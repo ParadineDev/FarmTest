@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33c951ea175d9b74a9ce05a3d313ef5c, type: 3}
+  m_Name: Plant 3
+  m_EditorClassIdentifier: 
+  Name: 2
+  Object: {fileID: 7474225610029003551, guid: f303613c54bb9114e9ab2dbcef97ab52, type: 3}
+  Icon: {fileID: 21300000, guid: a03844fbdd3625749b2c3666f76a5cd0, type: 3}
+  GrowTime: 4
+  ExperienceAmount: 4
+  Type: 2

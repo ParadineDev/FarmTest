@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="Grass.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.95321268"
+     inkscape:cx="301.08706"
+     inkscape:cy="364.03208"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1595"
+       inkscape:export-filename="Tree.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="stroke-width:0.26458333;stroke-dasharray:none">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.98239398;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+         id="rect234-9"
+         width="29.977573"
+         height="29.977573"
+         x="117.13457"
+         y="81.328033" />
+      <rect
+         style="fill:#fd8b00;fill-opacity:0.98239398;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="rect1039"
+         width="5.8881512"
+         height="13.739018"
+         x="129.7356"
+         y="94.602959" />
+      <ellipse
+         style="fill:#6efd00;fill-opacity:0.98239398;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="path1093"
+         cx="128.36169"
+         cy="92.44397"
+         rx="4.7105207"
+         ry="4.9067922" />
+      <ellipse
+         style="fill:#6efd00;fill-opacity:0.98239398;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="path1095"
+         cx="136.11441"
+         cy="93.425331"
+         rx="5.0049281"
+         ry="5.299336" />
+      <ellipse
+         style="fill:#6efd00;fill-opacity:0.98239398;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="path1097"
+         cx="132.67967"
+         cy="89.009216"
+         rx="5.4956074"
+         ry="5.5937433" />
+    </g>
+    <g
+       id="g1588"
+       inkscape:export-filename="Carrot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="stroke-width:0.26458333;stroke-dasharray:none">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.98239398;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+         id="rect234-6"
+         width="29.977573"
+         height="29.977573"
+         x="71.613083"
+         y="78.552338" />
+      <path
+         style="fill:#fd0000;fill-opacity:0.982394;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         d="m 78.057234,101.40168 c 5.708124,-9.45138 5.33267,-13.873956 12.738376,-12.793458 1.657757,6.823507 -4.534325,8.188527 -12.738376,12.793458 z"
+         id="path1249"
+         sodipodi:nodetypes="ccc" />
+      <ellipse
+         style="fill:#3efd00;fill-opacity:0.982394;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="path1303"
+         cx="126.64324"
+         cy="-7.1184306"
+         rx="2.1577916"
+         ry="4.0235696"
+         transform="rotate(46.852324)" />
+    </g>
+    <g
+       id="g1583"
+       inkscape:export-filename="Grass.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="stroke-width:0.26458333;stroke-dasharray:none">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.98239398;stroke:#000000;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         id="rect234"
+         width="29.977573"
+         height="29.977573"
+         x="24.703739"
+         y="81.050476" />
+      <path
+         style="fill:#49db00;fill-opacity:0.98239398;stroke:none;stroke-width:0.26458333;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+         d="m 29.078998,105.92514 c 4.587003,-4.59608 2.448981,-12.714798 1.864579,-20.019712 1.426161,6.202207 4.248518,12.055361 1.766446,19.234632 l 4.416112,0.58881 c 5.600518,-2.85687 1.221261,-12.656196 1.472039,-19.234625 1.04119,6.428725 4.429233,13.037974 2.453396,19.234625 l 5.004928,0.0981 c -4.749749,-5.49429 -0.06309,-12.875865 0,-19.332725 1.332319,6.359349 -2.603166,14.394815 4.121705,19.038355 l -0.588814,1.17763 -20.215984,0.19627 z"
+         id="path1525"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+  </g>
+</svg>
